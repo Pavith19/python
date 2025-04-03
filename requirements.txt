@@ -1,0 +1,6 @@
+Flask
+Flask-Cors
+Flask-SocketIO
+mysql-connector-python
+python-obd
+pyserial
